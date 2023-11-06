@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Stay hydrated",
+        "message": "I love to drink water 🥂 "
+        },
+
+    {
+        "subject": "Time to get some water",    
+        "message": "Water water water ~ ~ ~"
+    },
+
+    {
+        "subject": "Grab a cup of coffee!",
+        "message": "🤩 Coffee time 🤩"
+    },
+
+    {
+        "subject": "Time to stand up for a min",
+        "message": "stretch? take a walk? How's today's weather?"
+    },
+
+    {
+        "subject": "Fooood!!",
+        "message": "Maybe it's time for a meal?"
+    },
+
+    {
+        "subject": "Snack time!!",
+        "message": "Donut pub? Blank street? Blue bottle? Let's go!!"
+    },
+
+    {
+        "subject": "Is there an ice cream truck around?",
+        "message": "🍦 Go get a cup of ice cream 🍦"
+    },
+
+    {
+        "subject": "Seems like it is a good weather to go for a walk",
+        "message": "Stand up!!!"
+    }
+]
