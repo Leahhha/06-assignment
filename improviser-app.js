@@ -5,7 +5,7 @@ require('dotenv').config()
 const cron = require('node-cron')
 const Pushover = require('node-pushover');
 
-cron.schedule('*/5 * * * * *', notify)
+cron.schedule('* * */2 * * *', notify)
 
 var randomNum;
 var fs = require('fs');
