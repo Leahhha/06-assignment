@@ -16,6 +16,11 @@ Users can choose to have a rest or do the random activity that is preset in the 
 ![Improviser app code](improviser_app_code.png)
 ![Improviser app run on droplet](droplet_improviser_app.png)
 
+The notification is sending to my phone every two hours!!!
+![App notification](app_notification.jpg)
+
+I think for this app to go further. I can add more cron schedule to specify what time each day to send notification. That could be even better!
+
 
 ## Challenges:
 
