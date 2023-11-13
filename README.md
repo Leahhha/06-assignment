@@ -24,13 +24,15 @@ The most challenging thing is somehow the cron.schedule.
 I updated my cron.schedule a few times to find the correct form for sending messages every 2 hours.
 
 ![cron problem](cron_problem.png)
-![cron error notification](cron_error.PNG)
 
 The following are some note that I take for the cron.schdule.
 
 The first field (0) represents the minute and specifies that the cron job should run at the 0th minute of the hour.
 The second field (*/2) represents every 2 hours for the hour field.
 The other fields (* * * *) are left as wildcards, meaning "every day of the month, every month, and every day of the week."
+
+![cron error notification](cron_error.PNG)
+
 
 
 ## New knowledge: 
