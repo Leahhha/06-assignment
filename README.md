@@ -15,3 +15,11 @@ Math.floor(): This function is used to round a number down to the nearest intege
 require('fs'): In Node.js, require is a function used to include modules. Here, you are requiring the built-in 'fs' module, which provides methods for interacting with the file system, such as reading and writing files, creating directories, and more.
 
 var fs = ...: This line is assigning the fs object to a variable named fs. By doing this, you can now use the fs object to access the functionality provided by the 'fs' module in your code.
+
+Challenges:
+
+The most challenging thing is somehow the cron.schedule
+
+The first field (0) represents the minute and specifies that the cron job should run at the 0th minute of the hour.
+The second field (*/2) represents every 2 hours for the hour field.
+The other fields (* * * *) are left as wildcards, meaning "every day of the month, every month, and every day of the week."
